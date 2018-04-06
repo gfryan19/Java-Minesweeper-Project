@@ -11,7 +11,8 @@ Game.java:
 This class is responsible for most of the game logic and functionality of the game. Again my professor started us off with a shell of the class and left paragraph comments for directions of what he wanted from us. My original code is separated from what my professor wrote by large comments of slashes. There are two large comments of slashes to separate out the code, my original code is in between the two of them and code my professor wrote is on the outsides of them. In addition to the code I wrote separated by the large comments, I added a few variables here and there depending on what I needed. 
 
 
-
+HelpBox.java:
+Everything in this class is original code. I left my professors comment instructions in like I did in the other classes so it is clear what was being asked of me in this project.
 
 
 
