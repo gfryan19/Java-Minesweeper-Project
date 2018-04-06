@@ -26,3 +26,7 @@ This file was mostly written by my professor. The only parts of this that I chan
 Timer.java;
 This file was mostly written by my professor. The only parts of this that I changed were colors or sizes of things based off of how I wanted them to look in my game.
 
+
+TitleScreen.java:
+This file was mostly written by my professor. I changed some variables, colors, and sizes based on how I wanted things in my game to look. 
+
