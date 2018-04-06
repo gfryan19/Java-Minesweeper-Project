@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------
- *  Author:   K. Walsh
- *  Email:    kwalsh@holycross.edu
- *  Written:  7/13/2015
+ *  Authors:   K. Walsh and Greg Ryan
+ *  Email:    kwalsh@holycross.edu, gfryan19@g.holycross.edu
+ *  Written:  12/3/2015
  *  
  *  Each Cell object manages information about and draws a
  *  single "cell" of the game grid. 
@@ -16,6 +16,7 @@ import java.awt.Color;
  *   - whether a mine is hidden in this cell or not
  *   - how many of its neighboring cells contain mines
  *   - whether it has been revealed yet or is still hidden
+ *   - whether it has been flagged or not
  * Each Cell object knows how to draw itself in a graphical window, and it will
  * draw itself in different styles depending on all the above state information.
  */
