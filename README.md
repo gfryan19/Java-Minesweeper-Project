@@ -21,3 +21,8 @@ This file contains the main function of the program, but all of the interesting 
 
 StatusBox.java:
 This file was mostly written by my professor. The only parts of this that I changed were colors or sizes of things based off of how I wanted them to look in my game. 
+
+
+Timer.java;
+This file was mostly written by my professor. The only parts of this that I changed were colors or sizes of things based off of how I wanted them to look in my game.
+
