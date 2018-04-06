@@ -19,4 +19,5 @@ Minesweaper.java:
 This file contains the main function of the program, but all of the interesting stuff happens in the game.java and cell.java files. Just about all of this code is original and I left my professors comment instructions in again.
 
 
-
+StatusBox.java:
+This file was mostly written by my professor. The only parts of this that I changed were colors or sizes of things based off of how I wanted them to look in my game. 
