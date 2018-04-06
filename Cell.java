@@ -61,7 +61,7 @@ public class Cell extends Widget {
     }
 
     /**
-     * Hide a mine in this cell by changing the isMine variable to true.
+     * Hide a mine in this cell
      */
     public void plantMine() {
         isMine = true;
@@ -107,7 +107,7 @@ public class Cell extends Widget {
     }
 
     /**
-     * Set the neighbor mine count variable to a given value.
+     * Sets the neighbor mine count variable.
      */
     public void setNeighborMineCount(int count) {
         neighborMineCount = count;
@@ -121,7 +121,7 @@ public class Cell extends Widget {
     }
 
     /**
-     * Change this cell so that it is "revealed" by setting isRevealed to true.
+     * Change this cell so that it is "revealed" 
      */
     public void reveal() {
         isRevealed = true;
@@ -135,7 +135,7 @@ public class Cell extends Widget {
     }
 
     /**
-     * Hide a mine in this cell by changing the isMine variable to true.
+     * Hide a mine in this cell
      */
     public void makeMine() {
         isMine = true;
