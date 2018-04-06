@@ -15,7 +15,8 @@ HelpBox.java:
 Everything in this class is original code. I left my professors comment instructions in like I did in the other classes so it is clear what was being asked of me in this project.
 
 
-
+Minesweaper.java:
+This file contains the main function of the program, but all of the interesting stuff happens in the game.java and cell.java files. Just about all of this code is original and I left my professors comment instructions in again.
 
 
 
