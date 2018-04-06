@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------
- *  Author:   K. Walsh
- *  Email:    kwalsh@holycross.edu
- *  Written:  7/13/2015
+ *  Author:   K. Walsh and Greg Ryan
+ *  Email:    kwalsh@holycross.edu, gfryan19@g.holycross.edu
+ *  Written:  12/3/2015
  *  
  *  Minesweeper game. This class implements the game window and most
  *  of the game logic.
@@ -131,7 +131,8 @@ public class Game extends Window implements EventListener {
 
         this.username = name;
         this.difficulty = difficulty;
-
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
         // Create the background
         setBackgroundColor(Canvas.DARK_RED);
 
@@ -369,7 +370,8 @@ public class Game extends Window implements EventListener {
             break; // anything else is ignored
         }
     }
-
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     /**
      * Paint the background for this window on the canvas. Don't call this
      * directly, it is called by the GUI system automatically. This function
