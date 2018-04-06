@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------
- *  Author:   K. Walsh
- *  Email:    kwalsh@holycross.edu
- *  Written:  7/13/2015
+ *  Author:   K. Walsh and Greg Ryan
+ *  Email:    kwalsh@holycross.edu, gfryan19@g.holycross.edu
+ *  Written:  12/3/2015
  *  Update:
  *  
  *  A game of minesweeper. This class only really holds the
